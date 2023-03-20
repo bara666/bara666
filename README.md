@@ -22,3 +22,6 @@
 
 ![Linux](https://img.shields.io/badge/Linux-%23323330.svg?style=for-the-badge&logo=linux&logoColor=%23FCC624)
 
+## Social Links
+[![Linkedin](https://img.shields.io/badge/manuelbarallobre-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/manuelbarallobre/)
+[![Twitter](https://img.shields.io/badge/@ManuelBarall-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ManuelBarall)
