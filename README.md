@@ -2,7 +2,7 @@
 
 ## 🔭 I'm currently working on
 
-- [@Disashop](https://github.com/Disashopp) as Principal Engineer
+- [@Disashop](https://github.com/Disashop) as Principal Engineer
 
 ## 💼 Technical Skills
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
